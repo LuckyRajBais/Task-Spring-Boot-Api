@@ -1,0 +1,138 @@
+[		
+	{
+		  "startTime": "2022-11-07T04:59:59",
+          "endTime": "2022-11-07T06:14:44",
+          "vehicleName": "SIMULATOR-1",
+		  "driverFirstName": "Sudeep",
+          "driverLastName": "More",
+          "driverFullName": "Sudeep More",
+        
+          "tripId": "1-6625267997554",          
+		  "deviceId": "device1",
+          "driverId": "111",
+          "vehicleId": "VEHICLE-1",
+
+		  "distance": 1441,
+          "duration": 4485,
+          "maxStreetlimit": 80,
+          "maxSpeed": 88,
+		  "city":"PUNE"
+          },		  
+		  {
+		  "startTime": "2022-09-09T04:59:59",
+          "endTime": "2022-09-08T06:14:44",
+          "vehicleName": "SIMULATOR-1",
+		  "driverFirstName": "Lucky",
+          "driverLastName": "Raj",
+          "driverFullName": "Lucky Raj",
+        
+          "tripId": "1-662526721224",          
+		  "deviceId": "device1",
+          "driverId": "101",
+          "vehicleId": "VEHICLE-1",
+
+		  "distance": 5441,
+          "duration": 5485,
+          "maxStreetlimit": 80,
+          "maxSpeed": 78,
+		  "city":"PUNE"
+          },
+		  
+		  {
+		  "startTime": "2022-09-08T04:59:59",
+          "endTime": "2022--09-08T06:14:44",
+          "vehicleName": "SIMULATOR-2",
+		  "driverFirstName": "Devendra",
+          "driverLastName": "Patidar",
+          "driverFullName": "Devendra Patidar",
+        
+          "tripId": "1-662526799114",          
+		  "deviceId": "device2",
+          "driverId": "103",
+          "vehicleId": "VEHICLE-2",
+
+		  "distance": 5441,
+          "duration": 5485,
+          "maxStreetlimit": 80,
+          "maxSpeed": 78,
+		  "city":"Ahmedabad"
+          },
+		  
+		  		  {
+		  "startTime": "2022-09-08T04:59:59",
+          "endTime": "2022--09-08T06:14:44",
+          "vehicleName": "SIMULATOR-2",
+		  "driverFirstName": "Smit",
+          "driverLastName": "Kanojiya",
+          "driverFullName": "Smit Kanojiya",
+        
+          "tripId": "1-662526799721",          
+		  "deviceId": "device2",
+          "driverId": "104",
+          "vehicleId": "VEHICLE-2",
+
+		  "distance": 7441,
+          "duration": 8485,
+          "maxStreetlimit": 80,
+          "maxSpeed": 88,
+		  "city":"Ahmedabad"
+          },
+		  
+		 {
+		  "startTime": "2021-09-11T04:59:59",
+          "endTime": "2021-09-12T06:14:44",
+          "vehicleName": "SIMULATOR-2",
+		  "driverFirstName": "Deepak",
+          "driverLastName": "Kumar",
+          "driverFullName": "Deepak Kumar",
+        
+          "tripId": "1-662526799781",          
+		  "deviceId": "device3",
+          "driverId": "109",
+          "vehicleId": "VEHICLE-3",
+
+		  "distance": 7441,
+          "duration": 8485,
+          "maxStreetlimit": 80,
+          "maxSpeed": 88,
+		  "city":"Delhi"
+          },
+          {
+		  "startTime": "2022-09-07T04:59:59",
+          "endTime": "2022-09-07T06:14:44",
+          "vehicleName": "SIMULATOR-1",
+		  "driverFirstName": "suman",
+          "driverLastName": "kumar",
+          "driverFullName": "suman kumar",
+        
+          "tripId": "1-6625267997554",          
+		  "deviceId": "device1",
+          "driverId": "106",
+          "vehicleId": "VEHICLE-1",
+
+		  "distance": 4545,
+          "duration": 4985,
+          "maxStreetlimit": 70,
+          "maxSpeed": 90,
+		  "city":"Indore"
+          }	,
+          {
+		  "startTime": "2022-09-07T04:59:59",
+          "endTime": "2022-09-07T06:14:44",
+          "vehicleName": "SIMULATOR-1",
+		  "driverFirstName": "suman",
+          "driverLastName": "kumar",
+          "driverFullName": "Rahul Kumar",
+        
+          "tripId": "1-6625267997554",          
+		  "deviceId": "device1",
+          "driverId": "105",
+          "vehicleId": "VEHICLE-1",
+
+		  "distance": 1441,
+          "duration": 4485,
+          "maxStreetlimit": 80,
+          "maxSpeed": 88,
+		  "city":"Bhopal"
+          }		  	  
+]
